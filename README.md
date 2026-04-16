@@ -5,7 +5,7 @@
 
 IGNORE THE CODE IN THIS REPO
 
-This repo simply acts as a hub for all other tasks, which can be found by looking at the drop down menu of `Forks`, or by clicking these links. Task 6 is not a Repo
+This repo simply acts as a hub for all other tasks, which can be found by looking at the drop down menu of `Forks`, or by clicking these links.
 
 [Task 1 - Week 1](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-1-)
 
