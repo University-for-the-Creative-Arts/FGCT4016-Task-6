@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.Sem2UniversityTasks.gen.cpp.obj": [
-			"Sem2UniversityTasks.init.gen.cpp.obj",
-			"TestActor.gen.cpp.obj"
-		]
-	}
-}
